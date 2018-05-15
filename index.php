@@ -1,3 +1,3 @@
 <?php 
-echo "FMWC Website init";
+echo "FMWC Website init. Checkout online, master";
 ?>
